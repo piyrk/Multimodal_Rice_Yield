@@ -1,0 +1,5 @@
+result_scope,seed,model,training_samples,test_samples,mae_kg_ha,mae_std_kg_ha,rmse_kg_ha,rmse_std_kg_ha,r2,r2_std,aggregation_definition
+per_seed,42,Concatenation Fusion,198,41,512.186994,,660.993748,,0.493979,,Single final checkpoint evaluated on all 41 test samples
+per_seed,123,Concatenation Fusion,198,41,622.523554,,806.460900,,0.246747,,Single final checkpoint evaluated on all 41 test samples
+per_seed,2026,Concatenation Fusion,198,41,638.814748,,807.603753,,0.244611,,Single final checkpoint evaluated on all 41 test samples
+mean_plus_std,all,Concatenation Fusion,198,41,591.175098,68.888978,758.352800,84.317349,0.328446,0.143360,Arithmetic mean and sample standard deviation across the three seed-level metrics

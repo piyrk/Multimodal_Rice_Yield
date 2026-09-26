@@ -1,0 +1,15 @@
+{
+  "data\\raw\\soil\\Krishna_soil.csv": "8b3b2b4780a77e034a74f299aff6181fe7f32f073d46d110cfbcb93911cc642b",
+  "data\\raw\\weather\\Krishna_2010_Kharif_weather.csv": "2515654fea05894eccfeca4cd3a69a2196807fdcc021e20ad2301d3304a7a466",
+  "data\\raw\\yield\\upag_apy_district.csv": "12391e47b7455428f0ae8f09fda0ced561018cf346d12c959705276600672c3d",
+  "data\\raw\\satellite\\Krishna_2010_Kharif\\download.NDVI.tif": "bc3d09bccbd8628430fd4596e43aadf80d53b93e97f09e635cbf52d6de66aed8",
+  "data\\raw\\satellite\\Krishna_2010_Kharif\\download.SR_B1.tif": "cd278446a6406d968f350fbf6bc5db22b03109c76f37947e811ee8a57507e517",
+  "data\\raw\\satellite\\Krishna_2010_Kharif\\download.SR_B2.tif": "3e32fdd10546379dd5256a10cbd53e4e7e859a49d7fc0e5c194c3a185ecefea0",
+  "data\\raw\\satellite\\Krishna_2010_Kharif\\download.SR_B3.tif": "b350dc76089231800872c3096ee00042f821b1bdc29e43dcc6ce0fc62051c816",
+  "data\\raw\\satellite\\Krishna_2010_Kharif\\download.SR_B4.tif": "83881fe46a9489bedde90709a1513ddae0a6e25e4a5b77e22a2b0e410bad9fe1",
+  "data\\raw\\satellite\\Krishna_2010_Kharif\\download.SR_B5.tif": "4ee2e1ff39a2d075c8c1666912885cac4fc72404723ec20d4220085e117a9cdb",
+  "data\\raw\\satellite\\Krishna_2010_Kharif\\download.SR_B7.tif": "ea920d2a68b83127d4c46926081404796c5669075f0521fb5ec62bc087f213a5",
+  "data\\raw\\yield\\India_Agri_Data\\agridata.csv": "e31c7bfc7606e2ce49cb9aa29da7dfc68e2577a180a9c909fd9dbee97ee79ea0",
+  "data\\raw\\yield\\India_Agri_Data\\LICENSE": "4d2eef679d5faf924534bcc132646322e9a852ce50ae5616694e0b95f7b8275d",
+  "data\\raw\\yield\\India_Agri_Data\\README.md": "ec43b52423c1bdd89825a2d371f0fa57e6ece4334cc122cfa85ce9d0cf2ad411"
+}

@@ -1,0 +1,37 @@
+sample_id,stage,status,error
+AP_CHITTOOR_1998_99_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_CHITTOOR_1998_99_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_CUDDAPAH_1998_99_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_CUDDAPAH_1998_99_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_ANANTPUR_1999_00_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_CHITTOOR_1999_00_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_GUNTUR_1999_00_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_KURNOOL_1999_00_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_NELLORE_1999_00_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_PRAKASAM_1999_00_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_VIZIANAGARM_1999_00_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_CHITTOOR_2000_01_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_CUDDAPAH_2000_01_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_KRISHNA_2000_01_Rabi,satellite_patch_invalid,failed,valid fraction 0.0098
+AP_KURNOOL_2000_01_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_CUDDAPAH_2001_02_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_GUNTUR_2001_02_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_KURNOOL_2001_02_Kharif,satellite_patch_invalid,failed,valid fraction 0.0093
+AP_PRAKASAM_2001_02_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_VISAKHAPATNAM_2001_02_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_CHITTOOR_2003_04_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_CUDDAPAH_2003_04_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_KURNOOL_2003_04_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_NELLORE_2003_04_Kharif,satellite_patch_invalid,failed,valid fraction 0.0208
+AP_PRAKASAM_2003_04_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_VISAKHAPATNAM_2003_04_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_VIZIANAGARM_2003_04_Kharif,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_ANANTPUR_2007_08_Kharif,satellite_patch_invalid,failed,valid fraction 0.0497
+AP_ANANTPUR_2007_08_Rabi,satellite_patch_invalid,failed,valid fraction 0.0000
+AP_PRAKASAM_2008_09_Rabi,satellite,failed,HTTP Error 503: Service Unavailable
+AP_CHITTOOR_2011_12_Kharif,weather,failed,"HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError(""HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)""))"
+AP_CUDDAPAH_2011_12_Kharif,satellite,failed,"HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError(""HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)""))"
+AP_CUDDAPAH_2011_12_Kharif,weather,failed,"HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError(""HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)""))"
+AP_EAST_GODAVARI_2011_12_Kharif,satellite,failed,"HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError(""HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)""))"
+AP_EAST_GODAVARI_2011_12_Kharif,weather,failed,"HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError(""HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)""))"
+AP_EAST_GODAVARI_2011_12_Rabi,satellite,failed,"HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError(""HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)""))"

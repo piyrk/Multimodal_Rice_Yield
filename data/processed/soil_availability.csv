@@ -1,0 +1,14 @@
+district,soil_available,soil_source
+ANANTPUR,True,projects/soilgrids-isric/clay_mean
+CHITTOOR,True,projects/soilgrids-isric/clay_mean
+CUDDAPAH,True,projects/soilgrids-isric/clay_mean
+EAST GODAVARI,True,projects/soilgrids-isric/clay_mean
+GUNTUR,True,projects/soilgrids-isric/clay_mean
+KRISHNA,True,projects/soilgrids-isric/clay_mean
+KURNOOL,True,projects/soilgrids-isric/clay_mean
+NELLORE,True,projects/soilgrids-isric/clay_mean
+PRAKASAM,True,projects/soilgrids-isric/clay_mean
+SRIKAKULAM,True,projects/soilgrids-isric/clay_mean
+VISAKHAPATNAM,True,projects/soilgrids-isric/clay_mean
+VIZIANAGARM,True,projects/soilgrids-isric/clay_mean
+WEST GODAVARI,True,projects/soilgrids-isric/clay_mean

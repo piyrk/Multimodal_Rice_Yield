@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Credentials, tokens, and private keys
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*service-account*.json
+*service_account*.json
+secrets/
+credentials/
+**/.git/
+data/raw/yield/India_Agri_Data/
+
+# Local runtime and generated caches
+*.tmp
+*.temp
