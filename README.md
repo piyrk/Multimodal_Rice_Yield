@@ -1,5 +1,8 @@
-# Multimodal Rice Yield Prediction
+Multimodal Rice Yield Prediction
 
+
+
+Live Application: https://multimodalriceyield-krlybchvzf3zsmrhud2hgd.streamlit.app/
 ## Project Overview
 
 This project develops a multimodal deep-learning system for estimating rice yield in Andhra Pradesh, India. The system combines satellite imagery, daily weather observations, and district-level soil features to predict yield in **kg/ha**.
